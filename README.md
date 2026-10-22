@@ -18,6 +18,12 @@
 </p>
 
 
+## Setup wizard
+
+Install this product with the step-by-step wizard: https://wizard-i-have-adhd.netlify.app
+
+Version history: https://wizard-i-have-adhd.netlify.app/history.html
+
 ## Install
 
 Copy/paste into your CLI prompt:
